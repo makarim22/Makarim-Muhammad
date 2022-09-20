@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Data Scientist/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -6,23 +6,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+   <a href="www.linkedin.com/in/makarim-muhammad-b06501148" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
+   <a href="https://stackoverflow.com/users/19127534/jackma-22?tab=profile" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
+  <a href="https://www.kaggle.com/makarimmuhammad" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
+ <a href="https://www.hackerrank.com/jakamakarim" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
-- 👋 Hi, I’m Aastha
-- 💼 I'm a Data Scientist at Dubai Holding
-- 💬 Talk to me about freelancing opportunities in data science and software engineering
-- 👯 I’m looking to collaborate on backend software engineering projects
+- 👋 Hi, I’m Makarim
+- 💼 I'm a Data Scientist at All Data International
+- 💬 This github contains my projects, though its very beginner I hope it can shows you my competence in DS field
+- 👯 I’m looking to collaborate on Data Science project
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
@@ -97,16 +97,12 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href=">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
 </a>  
 
 
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
